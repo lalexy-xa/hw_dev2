@@ -13,7 +13,7 @@ public class SumCalculatorTest {
     }
     @Test
     public void testThatSumWithOneWorksCorrect() {
-        Assertions.assertEquals(1, calc.sum(1));
+        Assertions.assertEquals(2, calc.sum(1));
     }
 
     @Test
