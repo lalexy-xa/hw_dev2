@@ -1,9 +1,8 @@
 package org.example;
 
-import org.example.SumCalculator;
+import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 
 public class SumCalculatorTest {
     private SumCalculator calc;
@@ -18,7 +17,7 @@ public class SumCalculatorTest {
     }
 
     @Test
-    public void testThatSumWithMoreThenOneWorksCorrect() {
+    public void testThatSumWithSixWorksCorrect() {
         Assertions.assertEquals(6, calc.sum(3));
     }
 
