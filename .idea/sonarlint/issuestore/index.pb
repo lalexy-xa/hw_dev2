@@ -11,3 +11,5 @@ X
 ,src/main/java/org/example/SumCalculator.java,7\d\7d451c47e6ccd4e5f2537518e8f50801b6cc946f
 K
 .github/workflows/ci-cd.yml,e\5\e5ad8aa736aca9e40cb68718f70dc7fa78c1597a
+7
+gradlew,5\b\5bbfa66edb4db3c7c33c5181f43510990d3307f9

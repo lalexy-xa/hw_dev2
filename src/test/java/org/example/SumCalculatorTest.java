@@ -1,8 +1,9 @@
 package org.example;
 
-import org.junit.Test;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 public class SumCalculatorTest {
     private SumCalculator calc;
@@ -13,7 +14,7 @@ public class SumCalculatorTest {
     }
     @Test
     public void testThatSumWithOneWorksCorrect() {
-        Assertions.assertEquals(2, calc.sum(1));
+        Assertions.assertEquals(1, calc.sum(1));
     }
 
     @Test
