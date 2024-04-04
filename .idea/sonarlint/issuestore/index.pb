@@ -9,3 +9,5 @@ X
 (gradle/wrapper/gradle-wrapper.properties,f\b\fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
 \
 ,src/main/java/org/example/SumCalculator.java,7\d\7d451c47e6ccd4e5f2537518e8f50801b6cc946f
+K
+.github/workflows/ci-cd.yml,e\5\e5ad8aa736aca9e40cb68718f70dc7fa78c1597a
